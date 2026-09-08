@@ -27,7 +27,7 @@ Use this if you don't already have a RustDesk server. The Docker Compose file ru
 **Prerequisites:** Docker and Docker Compose installed.
 
 ```bash
-git clone https://github.com/ds4a/rustdesk-address-book.git
+git clone https://github.com/Welentis/rustdesk-address-book.git
 cd rustdesk-address-book
 ```
 
